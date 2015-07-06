@@ -1,0 +1,37 @@
+{
+  "name": "polymer-wtf",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An element providing a solution to no problem in particular.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "seed"
+  ],
+  "main": "polymer-wtf.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/seed-element/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0"
+  },
+  "_release": "591816a157",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "591816a15778dbc4997343b4acb9428358dde0c0"
+  },
+  "_source": "git://github.com/akash1810/polymer-wtf.git",
+  "_target": "master",
+  "_originalSource": "akash1810/polymer-wtf",
+  "_direct": true
+}
