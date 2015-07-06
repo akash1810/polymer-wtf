@@ -1,0 +1,33 @@
+<link rel="import" href="../polymer/polymer.html">
+
+<dom-module id="polymer-wtf">
+
+  <style>
+    :host {
+      display: block;
+      box-sizing: border-box;
+    }
+  </style>
+
+  <template>
+    <span>{{name}}</span> says hi!
+    <br />
+    {{name}} says hi!
+  </template>
+
+</dom-module>
+
+<script>
+
+  Polymer({
+
+    is: 'polymer-wtf',
+
+    properties: {
+      name: {
+        type: String
+      },
+    },
+  });
+
+</script>
